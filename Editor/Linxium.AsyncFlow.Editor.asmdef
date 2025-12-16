@@ -1,0 +1,16 @@
+{
+    "name": "Linxium.AsyncFlow.Editor",
+    "rootNamespace": "Linxium.AsyncFlow.Editor",
+    "references": [
+        "Linxium.AsyncFlow"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

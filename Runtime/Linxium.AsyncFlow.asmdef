@@ -1,0 +1,18 @@
+{
+    "name": "Linxium.AsyncFlow",
+    "rootNamespace": "Linxium.AsyncFlow",
+    "references": [
+        "UniTask",
+        "Linxium.TypesRecord",
+        "SerializableDictionary"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
